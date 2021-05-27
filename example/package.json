@@ -37,6 +37,7 @@
     ]
   },
   "devDependencies": {
-    "customize-cra": "^1.0.0"
+    "customize-cra": "^1.0.0",
+    "git-repo-info": "^2.1.1"
   }
 }
